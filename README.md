@@ -1,7 +1,7 @@
 hello!
 Thank you for giving me the opportunity to introduce myself as a web developer.
 I'm a senior full-stack developer with a passion for creating engaging and functional online experiences. 
-With over 8 years of experience in this field, I have honed my skills in various programming languages and frameworks.
+With over 5+ years of experience in this field, I have honed my skills in various programming languages and frameworks.
 
 Throughout my career, I have successfully worked on a variety of projects, including creating landing pages, websites, and e-commerce sites. 
 I am well versed in both front-end and back-end development and have extensive experience in database configuration.
